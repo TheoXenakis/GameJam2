@@ -4,3 +4,5 @@ SCP_FPS controller is the first person camera, make sure you have your main came
 PickupFalshlight is just the prompt for picking up the flashlight on the table or the ground like in a beginning of the level
 
 Flashlight is where the falshlight can toggle on or off.
+
+nextLevel this is just you can move the win screen or next level if we doing levels they can work for both.
